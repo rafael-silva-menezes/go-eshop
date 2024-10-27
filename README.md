@@ -14,8 +14,6 @@ Este projeto não é orientado a negócios e o foco principal foi na parte técn
 
 ![](./assets/shop-golang-microservices.png)
 
-## Como Executar
-
 ### Docker-Compose
 ```bash
 docker-compose -f ./deployments/docker-compose/infrastructure.yaml up -d
