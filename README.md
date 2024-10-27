@@ -20,25 +20,6 @@ Este projeto não é orientado a negócios e o foco principal foi na parte técn
 ```bash
 docker-compose -f ./deployments/docker-compose/infrastructure.yaml up -d
 ```
-
-### Compilação
-
-```bash
-make build
-```
-
-### Execução
-
-```bash
-make run
-```
-
-### Teste
-
-```bash
-make test
-```
-
 ## APIs de Documentação
 
 #### Swagger UI
