@@ -40,8 +40,8 @@ jobs:
           context: .
           push: true
           tags: |
-            rafasilva320/go.devops.api:${{ steps.generate_sha.outputs.sha }}
-            rafasilva320/go.devops.api:latest
+            rafasilva320/go.eshop.api:${{ steps.generate_sha.outputs.sha }}
+            rafasilva320/go.eshop.api:latest
       - name: Update image helm
         uses: fjogeleit/yaml-update-action@main
         with:

@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/rafael-silva-menezes/go-devops.git
+    repoURL: https://github.com/rafael-silva-menezes/go-eshop.git
     targetRevision: HEAD
     path: deploy
   destination:

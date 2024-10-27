@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: api-journey
-          image: rafasilva320/go.devops.api:0e823bf
+          image: rafasilva320/go.eshop.api:0e823bf
           env:
             - name: JOURNEY_DATABASE_USER
               valueFrom:
