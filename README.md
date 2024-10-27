@@ -12,7 +12,11 @@ Este projeto não é orientado a negócios e o foco principal foi na parte técn
 
 ## Diagrama de Arquitetura da Solução
 
-![](./assets/shop-golang-microservices.png)
+![](./assets/eshop-microservices.png)
+
+## Diagrama de Cenário de Implantação
+
+![](./assets/eshop-devops.png)
 
 ### Docker-Compose
 ```bash
