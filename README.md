@@ -4,22 +4,6 @@ Um microserviço prático e fictício para implementar uma infraestrutura para e
 
 Este projeto não é orientado a negócios e o foco principal foi na parte técnica para implementar um sistema distribuído com um projeto de exemplo.
 
-# Índice
-
-- [Objetivos do Projeto](#objetivos-do-projeto)
-- [Plano](#plano)
-- [Tecnologias - Bibliotecas](#tecnologias---bibliotecas)
-- [Domínio e Contexto Delimitado - Limites de Serviço](#domínio-e-contexto-delimitado---limites-de-serviço)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Executar](#como-executar)
-  - [Docker-Compose](#docker-compose)
-  - [Compilação](#compilação)
-  - [Execução](#execução)
-  - [Teste](#teste)
-- [APIs de Documentação](#apis-de-documentação)
-- [Suporte](#suporte)
-- [Contribuição](#contribuição)
-
 ## Objetivos do Projeto
 
 - Implementação de uma arquitetura de microserviços.
